@@ -8,3 +8,7 @@ A good introduction to DNS and using Bind appropriately.
 A good 10 step rule guide to regex
 
 - Hadoop Architecture: http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/
+
+- 12 Factor App: http://12factor.net/
+Methodology on building web services for the modern times. 
+
