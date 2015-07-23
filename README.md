@@ -12,3 +12,5 @@ A good 10 step rule guide to regex
 - 12 Factor App: http://12factor.net/
 Methodology on building web services for the modern times. 
 
+- The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
+Mastering command line.
