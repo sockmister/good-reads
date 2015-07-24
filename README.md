@@ -14,3 +14,6 @@ Methodology on building web services for the modern times.
 
 - The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
 Mastering command line.
+
+- Immutable Server: http://martinfowler.com/bliki/ImmutableServer.html#footnote-data
+On the concept of immutable servers.
