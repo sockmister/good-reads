@@ -17,3 +17,6 @@ Mastering command line.
 
 - Self-referential functions and the design of options: http://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html
 How to design options in Go.
+
+- Immutable Server: http://martinfowler.com/bliki/ImmutableServer.html#footnote-data
+On the concept of immutable servers.
