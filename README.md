@@ -14,3 +14,6 @@ Methodology on building web services for the modern times.
 
 - The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
 Mastering command line.
+
+- Self-referential functions and the design of options: http://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html
+How to design options in Go.
