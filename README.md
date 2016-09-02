@@ -7,8 +7,6 @@ A good introduction to DNS and using Bind appropriately.
 - Regex: http://russolsen.com/blog/2014/03/21/regular-expressions/
 A good 10 step rule guide to regex
 
-- Hadoop Architecture: http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/
-
 - 12 Factor App: http://12factor.net/
 Methodology on building web services for the modern times. 
 
@@ -23,3 +21,6 @@ On the concept of immutable servers.
 
 - Chaos Monkey Released Into The Wild: http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
 Because Netflix is awesome like this.
+
+- Don’t just check errors, handle them gracefully: http://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
+Handling errors in Go
