@@ -20,3 +20,6 @@ How to design options in Go.
 
 - Immutable Server: http://martinfowler.com/bliki/ImmutableServer.html#footnote-data
 On the concept of immutable servers.
+
+- Chaos Monkey Released Into The Wild: http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
+Because Netflix is awesome like this.
