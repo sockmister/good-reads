@@ -24,3 +24,6 @@ Because Netflix is awesome like this.
 
 - Don’t just check errors, handle them gracefully: http://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
 Handling errors in Go
+
+- Fragments: http://andy-kirkpatrick.com/blog/view/fragments
+Fragmented thoughts of a climber
