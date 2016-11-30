@@ -27,3 +27,6 @@ Handling errors in Go
 
 - Fragments: http://andy-kirkpatrick.com/blog/view/fragments
 Fragmented thoughts of a climber
+
+- Netflix Culture: Freedom and Responsibility: http://www.slideshare.net/reed2001/culture-1798664
+Netflix's take on HR
