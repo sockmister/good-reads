@@ -30,3 +30,6 @@ Fragmented thoughts of a climber
 
 - Netflix Culture: Freedom and Responsibility: http://www.slideshare.net/reed2001/culture-1798664
 Netflix's take on HR
+
+- Don’t Build Private Clouds: https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b#.eqe1jf4te
+I hate private clouds.
