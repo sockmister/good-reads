@@ -33,3 +33,6 @@ Netflix's take on HR
 
 - Don’t Build Private Clouds: https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b#.eqe1jf4te
 I hate private clouds.
+
+- The Unfinished: http://www.newyorker.com/magazine/2009/03/09/the-unfinished
+This is water.
