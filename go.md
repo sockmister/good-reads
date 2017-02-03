@@ -6,3 +6,7 @@
 
 # Interfaces
 + http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
++ https://research.swtch.com/interfaces
+
+# Design
+https://dave.cheney.net/2016/08/20/solid-go-design
