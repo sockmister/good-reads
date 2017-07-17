@@ -36,3 +36,9 @@ I hate private clouds.
 
 - The Unfinished: http://www.newyorker.com/magazine/2009/03/09/the-unfinished
 This is water.
+
+- Load Balancing is Impossible: https://www.youtube.com/watch?v=gas2v1emubU
+While your load balancing algorithm sucks.
+
+- Cluster Schedulers: https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896
+Why scheduling is not only just scheduling.
