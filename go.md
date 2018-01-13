@@ -10,3 +10,6 @@
 
 # Design
 https://dave.cheney.net/2016/08/20/solid-go-design
+
+# Misc.
+http://kgrz.io/reading-files-in-go-an-overview.html
