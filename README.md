@@ -42,3 +42,6 @@ While your load balancing algorithm sucks.
 
 - Cluster Schedulers: https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896
 Why scheduling is not only just scheduling.
+
+- Containers Will Not Fix Your Broken Culture (and Other Hard Truths): https://queue.acm.org/detail.cfm?id=3185224
+It's always people.
